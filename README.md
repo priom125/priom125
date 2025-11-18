@@ -1,13 +1,17 @@
-# 💫 About Me:
-Hi! I'm Priom, a MERN stack developer from Bangladesh. I love building clean, simple, and scalable web apps. Currently learning backend architecture and working on real-world projects. Always open to collaboration and new ideas.
+<h1>Hi! I'm Priom, a MERN stack developer from Bangladesh.</h1> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priom-sheikh-7b6119222/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priom6046@gmail.com)
+
+
+I love building clean, simple, and scalable web apps. Currently learning backend architecture and working on real-world projects. Always open to collaboration and new ideas.
 
 
 🔭 I’m currently working on a web development project<br>👯 I’m looking to collaborate on MERN stack apps<br>🤝 I’m looking for help with learning best practices<br>🌱 I’m currently learning advanced MERN stack<br>💬 Ask me about JavaScript, React, Firebase, MongoDB etc<br>⚡ Fun fact I can debug faster with music playing
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priom-sheikh-7b6119222/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priom6046@gmail.com)
+
+
 
 
 # 💻 Tech Stack:
