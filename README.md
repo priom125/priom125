@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Gemini_Generated_Image_yiboo1yiboo1yibo.png" alt="Banner Alt Text"/>
+</p>
+
 <h1>Hi! I'm Priom, a MERN stack developer from Bangladesh.</h1> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priom-sheikh-7b6119222/)
